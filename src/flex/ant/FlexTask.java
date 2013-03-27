@@ -281,8 +281,6 @@ public abstract class FlexTask extends Java
 
             try
             {
-            	System.out.println("FlexTask.arguments :: "+cmdl.getArguments());
-            	
                 Method toolMethod = toolClass.getMethod(toolName, new Class[] {String[].class});
                 toolMethod.invoke(null, new Object[] {cmdl.getArguments()});
 
