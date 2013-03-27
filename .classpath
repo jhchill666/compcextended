@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/flexTasks.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/ant-1.8.2/lib/ant-antlr.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/ant-1.8.2/lib/ant-jmf.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/ant-1.8.2/lib/ant-junit.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/ant-1.8.2/lib/ant-junit4.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/ant-1.8.2/lib/ant-launcher.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/ant-1.8.2/lib/ant-swing.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/ant-1.8.2/lib/ant-testutil.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/ant-1.8.2/lib/ant.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
