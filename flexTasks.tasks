@@ -2,4 +2,4 @@ mxmlc=flex.ant.MxmlcTask
 compc=flex.ant.CompcTask
 html-wrapper=flex.ant.HtmlWrapperTask
 asdoc=flex.ant.AsDocTask
-compcx=com.tiltdigital.compc.CompcExtended
+compcx=com.tiltdigital.compcx.CompcExtended
